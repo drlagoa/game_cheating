@@ -1,7 +1,7 @@
-### MY470 Computer Programming
+### Computer Programming
 
-### Data for Final Assignment, MT 2022
+### Code for Final Assignment, MT 2022
 
 ---
 
-This repository contains the data required to complete the final assignment. Your code should refer to the data files here but not modify them in any way.
+This repository contains the code and data required to complete the final assignment.
